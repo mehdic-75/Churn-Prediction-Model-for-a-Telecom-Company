@@ -1,0 +1,188 @@
+New Case? ,Case,Country / Case,Code,Date
+,1.0,Albania,ALB,1995-08-01
+,2.0,Algeria,DZA,1992-03-01
+,3.0,Algeria,DZA,1996-07-01
+,4.0,Argentina,ARG,1985-08-01
+,5.0,Argentina,ARG,1987-08-01
+,6.0,Argentina,ARG,1993-04-01
+,7.0,Argentina (Global),ARG,2005-06-01
+,8.0,Belize,BLZ,2007-02-01
+yes,9.0,Belize ,BLZ,2013-02-01
+,10.0,Bolivia,BOL,1988-03-01
+,11.0,Bolivia,BOL,1993-04-01
+,12.0,Bosnia and Herzegovina,BIH,1997-12-01
+,13.0,Brazil,BRA,1983-02-01
+,14.0,Brazil,BRA,1984-01-01
+,15.0,Brazil,BRA,1986-09-01
+,16.0,Brazil,BRA,1988-11-01
+,17.0,Brazil,BRA,1992-11-01
+,18.0,Brazil,BRA,1994-04-01
+,19.0,Bulgaria,BGR,1994-06-01
+,20.0,Cameroon,CMR,2003-08-01
+,21.0,Chile,CHL,1983-11-01
+,22.0,Chile,CHL,1984-01-01
+,23.0,Chile,CHL,1986-04-01
+,24.0,Chile,CHL,1987-06-01
+,25.0,Chile,CHL,1990-12-01
+,26.0,"Congo, Dem. Rep. (Zaire)",COD,1980-04-01
+,27.0,"Congo, Dem. Rep. (Zaire)",COD,1983-01-01
+,28.0,"Congo, Dem. Rep. (Zaire)",COD,1984-06-01
+,29.0,"Congo, Dem. Rep. (Zaire)",COD,1985-05-01
+,30.0,"Congo, Dem. Rep. (Zaire)",COD,1986-05-01
+,31.0,"Congo, Dem. Rep. (Zaire)",COD,1987-05-01
+,32.0,"Congo, Dem. Rep. (Zaire)",COD,1989-06-01
+yes,33.0,"Congo, Rep.",COG,1988-02-01
+,34.0,"Congo, Rep.",COG,2007-12-01
+,35.0,Costa Rica,CRI,1983-09-01
+,36.0,Costa Rica,CRI,1985-05-01
+,37.0,Costa Rica,CRI,1990-05-01
+,38.0,Cote d'Ivoire,CIV,1998-03-01
+,39.0,Cote d'Ivoire,CIV,2010-04-01
+yes,40.0,Cote d'Ivoire,CIV,2012-10-01
+,41.0,Croatia,HRV,1996-07-01
+,42.0,Cuba,CUB,1983-12-01
+,43.0,Cuba,CUB,1984-12-01
+,44.0,Cuba,CUB,1985-09-01
+,45.0,Dom. Rep.,DOM,1986-02-01
+,46.0,Dom. Rep.,DOM,1994-08-01
+,47.0,Dom. Rep. (Bond debt),DOM,2005-05-01
+,48.0,Dom. Rep (Bank debt),DOM,2005-10-01
+,49.0,Dominica,DMA,2004-09-01
+,50.0,Ecuador,ECU,1983-10-01
+,51.0,Ecuador,ECU,1984-08-01
+,52.0,Ecuador,ECU,1985-12-01
+,53.0,Ecuador,ECU,1995-02-01
+,54.0,Ecuador,ECU,2000-08-01
+,55.0,Ecuador,ECU,2009-06-01
+,56.0,Ethiopia,ETH,1996-01-01
+,57.0,Gabon,GAB,1987-12-01
+,58.0,Gabon,GAB,1994-05-01
+,59.0,"Gambia,The",GMB,1988-02-01
+yes,60.0,Greece *,GRC,2012-03-01
+,61.0,Grenada,GRD,2005-11-01
+,62.0,Guinea,GIN,1988-04-01
+,63.0,Guinea,GIN,1998-12-01
+,64.0,Guyana,GUY,1992-11-01
+,65.0,Guyana,GUY,1999-12-01
+,66.0,Honduras,HND,1989-10-01
+,67.0,Honduras,HND,2001-08-01
+,68.0,Iraq,IRQ,2006-01-01
+,69.0,Jamaica,JAM,1978-09-01
+,70.0,Jamaica,JAM,1979-04-01
+,71.0,Jamaica,JAM,1981-06-01
+,72.0,Jamaica,JAM,1984-06-01
+,73.0,Jamaica,JAM,1985-09-01
+,74.0,Jamaica,JAM,1987-05-01
+,75.0,Jamaica,JAM,1990-06-01
+,76.0,Jordan,JOR,1993-12-01
+,77.0,Kenya,KEN,1998-06-01
+,78.0,Liberia,LBR,1982-12-01
+yes,79.0,Liberia,LBR,2009-04-01
+,80.0,"Macedonia, FYR",MKD,1997-03-01
+,81.0,Madagascar,MDG,1981-11-01
+,82.0,Madagascar,MDG,1984-10-01
+,83.0,Madagascar,MDG,1987-06-01
+,84.0,Madagascar,MDG,1990-04-01
+,85.0,Malawi,MWI,1983-03-01
+,86.0,Malawi,MWI,1988-10-01
+,87.0,Mauritania,MRT,1996-08-01
+,88.0,Mexico,MEX,1983-08-01
+,89.0,Mexico,MEX,1985-03-01
+,90.0,Mexico,MEX,1985-08-01
+,91.0,Mexico,MEX,1987-03-01
+,92.0,Mexico,MEX,1988-03-01
+,93.0,Mexico,MEX,1990-02-01
+,94.0,Moldova (Eurobonds),MDA,2002-10-01
+,95.0,Moldova (Gazprom debt),MDA,2004-06-01
+,96.0,Morocco,MAR,1986-02-01
+,97.0,Morocco,MAR,1987-09-01
+,98.0,Morocco,MAR,1990-09-01
+,99.0,Mozambique,MOZ,1991-12-01
+yes,100.0,Mozambique,MOZ,2007-09-01
+,101.0,Nicaragua,NIC,1980-12-01
+,102.0,Nicaragua,NIC,1981-12-01
+,103.0,Nicaragua,NIC,1982-03-01
+,104.0,Nicaragua,NIC,1984-02-01
+,105.0,Nicaragua,NIC,1995-11-01
+yes,106.0,Nicaragua,NIC,2007-12-01
+,107.0,Niger,NER,1984-03-01
+,108.0,Niger,NER,1986-04-01
+,109.0,Niger,NER,1991-03-01
+,110.0,Nigeria,NGA,1983-07-01
+,111.0,Nigeria,NGA,1983-09-01
+,112.0,Nigeria,NGA,1984-04-01
+,113.0,Nigeria,NGA,1987-11-01
+,114.0,Nigeria,NGA,1988-01-01
+,115.0,Nigeria,NGA,1989-06-01
+,116.0,Nigeria,NGA,1991-12-01
+,117.0,Pakistan (Bank debt),PAK,1999-12-01
+,118.0,Pakistan (Bond debt),PAK,1999-12-01
+,119.0,Panama,PAN,1985-10-01
+,120.0,Panama,PAN,1994-08-01
+,121.0,Panama,PAN,1996-04-01
+,122.0,Paraguay,PRY,1993-07-01
+yes,123.0,Peru,PER,1978-12-01
+,124.0,Peru,PER,1980-01-01
+,125.0,Peru,PER,1983-07-01
+,126.0,Peru,PER,1997-03-01
+,127.0,Philippines,PHL,1986-04-01
+,128.0,Philippines,PHL,1987-12-01
+,129.0,Philippines,PHL,1990-02-01
+,130.0,Philippines,PHL,1992-12-01
+,131.0,Poland,POL,1982-04-01
+,132.0,Poland,POL,1982-11-01
+,133.0,Poland,POL,1983-11-01
+,134.0,Poland,POL,1984-07-01
+,135.0,Poland,POL,1986-09-01
+,136.0,Poland,POL,1988-07-01
+,137.0,Poland,POL,1989-07-01
+,138.0,Poland,POL,1994-10-01
+,139.0,Romania,ROU,1982-12-01
+,140.0,Romania,ROU,1983-06-01
+,141.0,Romania,ROU,1986-09-01
+,142.0,Russian Federation,RUS,1997-12-01
+,143.0,"Russia (GKOs, non-resid.)",RUS,1999-05-01
+,144.0,Russia (MinFin3),RUS,2000-02-01
+,145.0,Russia (PRINs & IANs),RUS,2000-08-01
+,146.0,Sao Tome and Principe,STP,1994-08-01
+,147.0,Senegal,SEN,1984-02-01
+,148.0,Senegal,SEN,1985-05-01
+,149.0,Senegal,SEN,1990-09-01
+,150.0,Senegal,SEN,1996-12-01
+,151.0,Serbia and Montenegro,SRB,2004-07-01
+,152.0,Seychelles,SYC,2010-02-01
+,153.0,Sierra Leone,SLE,1995-08-01
+,154.0,Slovenia,SVN,1996-03-01
+,155.0,South Africa,ZAF,1987-03-01
+,156.0,South Africa,ZAF,1989-10-01
+,157.0,South Africa,ZAF,1993-09-01
+yes,158.0,St. Kitts and Nevis,KNA,2012-02-01
+,159.0,Sudan,SDN,1985-10-01
+,160.0,Tanzania,TZA,2004-01-01
+,161.0,Togo,TGO,1988-05-01
+,162.0,Togo,TGO,1997-12-01
+,163.0,Trinidad and Tobago,TTO,1989-12-01
+,164.0,Turkey,TUR,1979-06-01
+,165.0,Turkey,TUR,1979-08-01
+,166.0,Turkey,TUR,1981-08-01
+,167.0,Turkey,TUR,1982-03-01
+,168.0,Uganda,UGA,1993-02-01
+,169.0,"Ukraine (OVDPs, non-resid.)",UKR,1998-09-01
+,170.0,Ukraine (Chase loan),UKR,1998-10-01
+,171.0,Ukraine (ING loan),UKR,1999-08-01
+,172.0,Ukraine (Global Exchange),UKR,2000-04-01
+,173.0,Uruguay,URY,1983-07-01
+,174.0,Uruguay,URY,1986-07-01
+,175.0,Uruguay,URY,1988-03-01
+,176.0,Uruguay,URY,1991-01-01
+,177.0,Uruguay,URY,2003-05-01
+,178.0,Venezuela,VEN,1986-02-01
+,179.0,Venezuela,VEN,1987-09-18
+,180.0,Venezuela,VEN,1990-12-01
+,181.0,Vietnam,VNM,1997-12-01
+,182.0,"Yemen, Republic of",YEM,2001-02-01
+,183.0,Yugoslavia,YUG,1983-09-01
+,184.0,Yugoslavia,YUG,1984-05-01
+,185.0,Yugoslavia,YUG,1985-12-01
+,186.0,Yugoslavia,YUG,1988-09-01
+,187.0,Zambia,ZMB,1994-09-01
